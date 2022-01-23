@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<br>
-
 ## Work
 - I code PHP for PocketMine-MP
 
