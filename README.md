@@ -10,11 +10,11 @@
 
 ## RoyalDevTeam Plugins
 | **Plugins** | **State** | **API** | **Link** |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | **RoyalPingTag** | **<a href="https://poggit.pmmp.io/p/RoyalPingTag"><img src="https://poggit.pmmp.io/shield.state/RoyalPingTag"></a>** | **4.0.0** | **[**RoyalPingTag**](https://github.com/RoyalTeamDeveloper/RoyalPingTag)**|
-| **Comming soon** | **Comming soon** | **Comming soon** |
-| **Comming soon** | **Comming soon** | **Comming soon** |
-| **Comming soon** | **Comming soon** | **Comming soon** |
+| **Comming soon** | **Comming soon** | **Comming soon** | **Comming soon** |
+| **Comming soon** | **Comming soon** | **Comming soon** | **Comming soon** |
+| **Comming soon** | **Comming soon** | **Comming soon** | **Comming soon** |
 
 <br>
 
