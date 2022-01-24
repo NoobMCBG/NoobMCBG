@@ -12,9 +12,9 @@
 | **Plugins** | **State** | **API** | **Link** |
 | --- | --- | --- | --- |
 | **RoyalPingTag** | **<a href="https://poggit.pmmp.io/p/RoyalPingTag"><img src="https://poggit.pmmp.io/shield.state/RoyalPingTag"></a>** | **4.0.0** | **[**RoyalPingTag**](https://github.com/RoyalTeamDeveloper/RoyalPingTag)**|
-| **Comming soon** | **Comming soon** | **Comming soon** | **Comming soon** |
-| **Comming soon** | **Comming soon** | **Comming soon** | **Comming soon** |
-| **Comming soon** | **Comming soon** | **Comming soon** | **Comming soon** |
+| **Comming soon** | **[**State**](https://cdn-icons-png.flaticon.com/128/5110/5110278.png)** | **4.0.0** | **[**Comming soon**](https://cdn-icons-png.flaticon.com/128/5110/5110278.png)** |
+| **Comming soon** | **[**State**](https://cdn-icons-png.flaticon.com/128/5110/5110278.png)** | **4.0.0** | **[**Comming soon**](https://cdn-icons-png.flaticon.com/128/5110/5110278.png)** |
+| **Comming soon** | **[**State**](https://cdn-icons-png.flaticon.com/128/5110/5110278.png)** | **4.0.0** | **[**Comming soon**](https://cdn-icons-png.flaticon.com/128/5110/5110278.png)** |
 
 <br>
 
