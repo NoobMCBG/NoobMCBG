@@ -3,6 +3,16 @@
 
 <br>
 
+## My Friends
+| **Friends** | **Link** |
+| --- | --- |
+| **lenlenlL6** | **[**PMMD ST**](https://github.com/lenlenlL6)** |
+| **VbeeAZ** | **[**VbeeAZZ**](https://github.com/BeeAZZ)** |
+| **JeroGamingYT**| **[**JeroGamingYT-pm-pl**](https://github.com/JeroGamingYT-pm-pl)** |
+| **NhanAZ** | **[**nhanaz-pm-pl**](https://github.com/nhanaz-pm-pl)** |
+
+<br>
+
 ## Poggit Plugins
 
 | **Plugins** | **API** | **Download Total** | **Link** |
