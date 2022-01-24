@@ -1,8 +1,3 @@
-## Work
-- I code PHP for PocketMine-MP
-
-<br>
-
 ## My Friends
 | **Friends** | **Link** |
 | --- | --- |
