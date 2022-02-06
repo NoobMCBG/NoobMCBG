@@ -2,7 +2,7 @@
 | **Friends** | **Link** |
 | --- | --- |
 | **lenlenlL6** | **[**PMMD ST**](https://github.com/lenlenlL6)** |
-| **NovaStark1234** | **[**NovaStark1234**](https://github.com/NovaStark1234)** |
+| **NovaStark1245** | **[**NovaStark1234**](https://github.com/NovaStark1245)** |
 | **VbeeAZ** | **[**VbeeAZZ**](https://github.com/BeeAZZ)** |
 | **JeroGamingYT**| **[**JeroGamingYT-pm-pl**](https://github.com/JeroGamingYT-pm-pl)** |
 | **NhanAZ** | **[**nhanaz-pm-pl**](https://github.com/nhanaz-pm-pl)** |
