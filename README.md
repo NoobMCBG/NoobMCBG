@@ -1,11 +1,11 @@
 ## My Friends
 | **Friends** | **Link** |
 | --- | --- |
-| **lenlenlL6** | **[**PMMD ST**](https://github.com/lenlenlL6)** |
-| **NovaStark1245** | **[**NovaStark1245**](https://github.com/NovaStark1234)** |
-| **VbeeAZ** | **[**VbeeAZZ**](https://github.com/BeeAZZ)** |
-| **JeroGamingYT**| **[**JeroGamingYT-pm-pl**](https://github.com/JeroGamingYT-pm-pl)** |
-| **NhanAZ** | **[**nhanaz-pm-pl**](https://github.com/nhanaz-pm-pl)** |
+| **lenlenlL6** | **[**<img src="https://github.com/NoobMCBG/Image/blob/main/lenlenlL6.png" />**](https://github.com/lenlenlL6)** |
+| **NovaStark1245** | **[**<img src="https://github.com/NoobMCBG/Image/blob/main/NovaStark1245.png" />**](https://github.com/NovaStark1234)** |
+| **BeeAZ** | **[**<img src="https://github.com/NoobMCBG/Image/blob/main/BeeAZ.png" />**](https://github.com/BeeAZZ)** |
+| **JeroGamingYT**| **[**<img src="https://github.com/NoobMCBG/Image/blob/main/JeroGamingYT.png" />**](https://github.com/JeroGamingYT-pm-pl)** |
+| **NhanAZ** | **[**<img src="https://github.com/NoobMCBG/Image/blob/main/NhanAZ.png" />**](https://github.com/nhanaz-pm-pl)** |
 
 <br>
 
