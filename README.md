@@ -4,7 +4,7 @@
 | **lenlenlL6** | **[**lenlenlL6**](https://github.com/lenlenlL6)** |
 | **NovaStark1245** | **[**NovaStark1245**](https://github.com/NovaStark1234)** |
 | **BeeAZ** | **[**BeeAZ**](https://github.com/BeeAZZ)** |
-| **EricGamingYT**| **[**EricGamingYT-pm-pl**](https://github.com/JeroGamingYT-pm-pl)** |
+| **EricGamingYT**| **[**EricGamingYT-pm-pl**](https://github.com/EricGamingYT-pm-pl)** |
 | **NhanAZ** | **[**nhanaz-pm-pl**](https://github.com/nhanaz-pm-pl)** |
 
 <br>
