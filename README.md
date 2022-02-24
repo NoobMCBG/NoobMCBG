@@ -1,22 +1,3 @@
-## My Friends
-| **Friends** | **Link** |
-| --- | --- |
-| **lenlenlL6** | **[**lenlenlL6**](https://github.com/lenlenlL6)** |
-| **NovaStark1245** | **[**NovaStark1245**](https://github.com/NovaStark1234)** |
-| **BeeAZ** | **[**BeeAZ**](https://github.com/BeeAZZ)** |
-| **EricGamingYT**| **[**EricGamingYT**](https://github.com/EricGamingYT)** |
-| **NhanAZ** | **[**nhanaz-pm-pl**](https://github.com/nhanaz-pm-pl)** |
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=NoobMCBG&color=green)
----
-![NoobMCBG's github stats](https://github-readme-stats.vercel.app/api/?username=NoobMCBG&show_icons=true&hide_border=true&theme=algolia&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobMCBG&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/NoobMCBG)
-<!--
-
-<br>
-
 ## Poggit Plugins
 
 | **Plugins** | **State** | **API** | **Download Total** |
@@ -25,3 +6,11 @@
 | **[**KillDeathSound**](https://poggit.pmmp.io/p/KillDeathSound/1.0.0)** | **<a href="https://poggit.pmmp.io/p/KillDeathSound"><img src="https://poggit.pmmp.io/shield.state/KillDeathSound"></a>** | **<a href="https://poggit.pmmp.io/p/KillDeathSound"><img src="https://poggit.pmmp.io/shield.api/KillDeathSound"></a>** | **<a href="https://poggit.pmmp.io/p/KillDeathSound"><img src="https://poggit.pmmp.io/shield.dl.total/KillDeathSound"></a>**|
 | **[**PaidAll**](https://poggit.pmmp.io/p/PaidAll/1.0.0)** | **<a href="https://poggit.pmmp.io/p/PaidAll"><img src="https://poggit.pmmp.io/shield.state/PaidAll"></a>** | **<a href="https://poggit.pmmp.io/p/PaidAll"><img src="https://poggit.pmmp.io/shield.api/PaidAll"></a>** | **<a href="https://poggit.pmmp.io/p/PaidAll"><img src="https://poggit.pmmp.io/shield.dl.total/PaidAll"></a>** |
 | **[**RoyalPingTag**](https://poggit.pmmp.io/p/RoyalPingTag/1.0.0)** | **<a href="https://poggit.pmmp.io/p/RoyalPingTag"><img src="https://poggit.pmmp.io/shield.state/RoyalPingTag"></a>** | **<a href="https://poggit.pmmp.io/p/RoyalPingTag"><img src="https://poggit.pmmp.io/shield.api/RoyalPingTag"></a>** | **<a href="https://poggit.pmmp.io/p/RoyalPingTag"><img src="https://poggit.pmmp.io/shield.dl.total/RoyalPingTag"></a>**|
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=NoobMCBG&color=green)
+---
+![NoobMCBG's github stats](https://github-readme-stats.vercel.app/api/?username=NoobMCBG&show_icons=true&hide_border=true&theme=algolia&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobMCBG&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/NoobMCBG)
+<!--
