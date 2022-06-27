@@ -10,8 +10,8 @@
 
 
 <br>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 ![](https://komarev.com/ghpvc/?username=NoobMCBG&color=green)
----
+--- 
 ![NoobMCBG's github stats](https://github-readme-stats.vercel.app/api/?username=NoobMCBG&show_icons=true&hide_border=true&theme=algolia&count_private=true)
 <!--
